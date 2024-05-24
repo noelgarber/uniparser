@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+uniparser/__init__.py
+uniparser/uniparser.py
+uniparser.egg-info/PKG-INFO
+uniparser.egg-info/SOURCES.txt
+uniparser.egg-info/dependency_links.txt
+uniparser.egg-info/requires.txt
+uniparser.egg-info/top_level.txt
