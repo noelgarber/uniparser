@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="uniparser",
+    name="uniprot_topology",
     version="0.1",
     packages=find_packages(),
     description="Simple parser for UniProt topological domains and other features",
